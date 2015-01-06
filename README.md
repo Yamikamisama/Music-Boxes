@@ -1,13 +1,19 @@
 Music-Boxes
 ===========
 
-####ABOUT:  A simple music game, 7 color coded boxes that you click to create a sound!
+####ABOUT:  
 
-####TECH: HTML, CSS, JavaScript, and jQuery.
+A simple music game, 7 colored boxes that you click to create a sound!
+
+
+####TECH: 
+
+HTML, CSS, JavaScript, and jQuery.
+
 
 ####TEAM
 
-####Michael Angelo
+#####Michael Angelo
 * Website: https://yamikamisama.github.io
 * GitHub: https://github.com/Yamikamisama
 * LinkedIn: http://www.linkedin.com/pub/michael-angelo/9a/a93/1b0/
