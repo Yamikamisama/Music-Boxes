@@ -1,12 +1,12 @@
 Music-Boxes
 ===========
 
-####ABOUT:  
+####ABOUT:
 
 A simple music game, 7 colored boxes that you click to create a sound!
 
 
-####TECH: 
+####TECH:
 
 HTML, CSS, JavaScript, and jQuery.
 
