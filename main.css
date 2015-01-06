@@ -20,6 +20,8 @@ body{
 	float: left;
 }
 
+/* Basic Styling for boxes */
+
 #c {
     background-color: #3e181b;
     border: 3px solid #db1d2d;
@@ -55,6 +57,8 @@ body{
     border: 3px solid #f26fd4;
 }
 
+/* Hover Styling for boxes */
+
 #c:hover {
     background-color:#661920;
     cursor: pointer;
@@ -88,4 +92,34 @@ body{
 #b:hover {
     background-color:#6f3a62;
     cursor: pointer;
+}
+
+/* Active Styling for boxes */
+
+#c:active {
+    background-color:#db1d2d;
+}
+
+#d:active {
+    background-color:#f0421c;
+}
+
+#e:active {
+    background-color:#fec02d;
+}
+
+#f:active {
+    background-color:#20d071;
+}
+
+#g:active {
+    background-color:#1a9ddb;
+}
+
+#a:active {
+    background-color:#a13fad;
+}
+
+#b:active {
+    background-color:#f26fd4;
 }
